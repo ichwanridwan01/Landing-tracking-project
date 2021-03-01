@@ -11,45 +11,32 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Red: hsl(0, 100%, 68%)
-
-### Neutral
-
-- Very Dark Blue: hsl(230, 29%, 20%)
-- Dark Grayish Blue: hsl(230, 11%, 40%)
-- Grayish Blue: hsl(231, 7%, 65%)
-- Light Grayish Blue: hsl(207, 33%, 95%)
+- Dark Blue: hsl(240, 38%, 20%)
+- Grayish Blue: hsl(240, 18%, 77%)
 
 ## Typography
 
 ### Body Copy
 
-- Font size: 18px
+- Font size: 32px
 
-### Headings, Call-to-actions, Navigation
+### Font
 
-- Family: [Barlow Condensed](https://fonts.google.com/specimen/Barlow+Condensed)
-- Weights: 400, 700
+- Family: [Inter](https://fonts.google.com/specimen/Inter)
+- Weights: 300, 500, 700
 
-### Body
+<!-- Comment -->
 
-- Family: [Barlow](https://fonts.google.com/specimen/Barlow)
-- Weights: 400
+“ I’ve been interested in coding for a while but never taken the jump, until now.
+I couldn’t recommend this course enough. I’m now in the job of my dreams and so
+excited about the future. ”
 
+Tanya Sinclair
+UX Engineer
 
+“ If you want to lay the best foundation possible I’d recommend taking this course.
+The depth the instructors go into is incredible. I now feel so confident about
+starting up as a professional developer. ”
 
-
-  Product
-  Features
-  Pricing
-  Login
-
-  New
-  Monograph Dashboard
-
-  Powerful insights into your team
-  Project planning and time tracking for agile teams
-
-  Schedule a demo
-  to see a live preview
-  
+John Tarkpor
+Junior Front-end Developer
